@@ -3,7 +3,7 @@
 {"name": "antnee", "allyCode": "839286723", "discordId": ""},
 {"name": "brennerchen", "allyCode": "698246589", "discordId": ""},
 {"name": "chilla", "allyCode": "786318765", "discordId": ""},
-{"name": "clever name", "allyCode":  "357755288", "discordId": ""},
+{"name": "clever name", "allyCode": "357755288", "discordId": ""},
 {"name": "dankatomi", "allyCode": "788297363", "discordId": ""},
 {"name": "dark omega", "allyCode": "537515681", "discordId": ""},
 {"name": "dave sabre", "allyCode": "432229961", "discordId": ""},
