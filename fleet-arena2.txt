@@ -1,14 +1,9 @@
 [
   {
     "name": "Aagistar",
-    
    "allyCode": "529193469",
-   
   "discordId": ""
-  
   },
-  
-[
   {
     "name": "altrios", 
    "allyCode": "499369263", 
