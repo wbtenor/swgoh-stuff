@@ -17,14 +17,6 @@
     "skip": true
   },
   {
-    "name": "avanos", 
-    "comment": "",
-    "allyCode": "269542873", 
-    "userIcon": ":flag_jp:",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb": ""
-  },
-  {
     "name": "avonyx", 
     "comment": "",
     "allyCode": "574216934", 
@@ -385,6 +377,14 @@
     "tagIdOnClimb": ""
   },
   {
+    "name": "avanos", 
+    "comment": "",
+    "allyCode": "269542873", 
+    "userIcon": ":gun:",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": ""
+  },
+  {
     "name": "x BA BOOOOO", 
     "comment": "",
     "allyCode": "139927757", 
@@ -493,6 +493,14 @@
     "name": "x DarthOnaga", 
     "comment": "",
     "allyCode": "967855376", 
+    "userIcon": ":gun:",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": ""
+  },
+  {
+    "name": "x DC", 
+    "comment": "",
+    "allyCode": "475639996", 
     "userIcon": ":gun:",
     "tagIdOnDrop": "",
     "tagIdOnClimb": ""
