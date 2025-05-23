@@ -401,6 +401,14 @@
     "tagIdOnClimb": ""
   },
   {
+    "name": "x BayJan11", 
+    "comment": "",
+    "allyCode": "963653939", 
+    "userIcon": ":gun:",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": ""
+  },
+  {
     "name": "x Blitz 58", 
     "comment": "",
     "allyCode": "879842142", 
@@ -490,6 +498,14 @@
     "tagIdOnClimb": ""
   },
   {
+    "name": "x darthburgess", 
+    "comment": "",
+    "allyCode": "955591794", 
+    "userIcon": ":gun:",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": ""
+  },
+  {
     "name": "x DarthOnaga", 
     "comment": "",
     "allyCode": "967855376", 
@@ -572,6 +588,14 @@
     "tagIdOnClimb": ""
   },
   {
+    "name": "x MINI feuergranate", 
+    "comment": "",
+    "allyCode": "759287338", 
+    "userIcon": ":gun:",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": ""
+  },
+  {
     "name": "x frey", 
     "comment": "",
     "allyCode": "513661227", 
@@ -613,10 +637,26 @@
     "tagIdOnDrop": "",
     "tagIdOnClimb": ""
   },
-    {
+  {
     "name": "x Hoppness", 
     "comment": "",
     "allyCode": "926113247", 
+    "userIcon": ":gun:",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": ""
+  },
+  {
+    "name": "x Howrude", 
+    "comment": "",
+    "allyCode": "728594989", 
+    "userIcon": ":gun:",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": ""
+  },
+  {
+    "name": "x Husker", 
+    "comment": "",
+    "allyCode": "652185678", 
     "userIcon": ":gun:",
     "tagIdOnDrop": "",
     "tagIdOnClimb": ""
@@ -638,6 +678,14 @@
     "tagIdOnClimb": ""
   },
   {
+    "name": "x jaxis", 
+    "comment": "",
+    "allyCode": "944442358", 
+    "userIcon": ":gun:",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": ""
+  },
+  {
     "name": "x JDLSlade", 
     "comment": "",
     "allyCode": "276431938", 
@@ -650,6 +698,14 @@
     "name": "x kacknballz", 
     "comment": "",
     "allyCode": "922426773", 
+    "userIcon": ":gun:",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": ""
+  },
+  {
+    "name": "x killme77", 
+    "comment": "",
+    "allyCode": "317365234", 
     "userIcon": ":gun:",
     "tagIdOnDrop": "",
     "tagIdOnClimb": ""
@@ -696,9 +752,25 @@
     "tagIdOnClimb": ""
   },
   {
+    "name": "x Loreck Avery", 
+    "comment": "",
+    "allyCode": "449296766", 
+    "userIcon": ":gun:",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": ""
+  },
+  {
     "name": "x MadCat", 
     "comment": "",
     "allyCode": "697517252", 
+    "userIcon": ":gun:",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": ""
+  },
+  {
+    "name": "x Mikku Bosku", 
+    "comment": "",
+    "allyCode": "748921114", 
     "userIcon": ":gun:",
     "tagIdOnDrop": "",
     "tagIdOnClimb": ""
